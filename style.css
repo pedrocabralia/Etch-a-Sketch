@@ -73,3 +73,36 @@ h1{
     color: black;
 
 }
+#black{
+
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 25px;
+
+}
+
+#black:hover{
+    background-color: rgba(0, 0, 0, 0.719);
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+
+
+}
+
+
+#rainbow{
+    
+    background: linear-gradient(#c7d40f, #1ad6cd);
+    color: black;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 25px;
+    cursor: pointer;
+
+
+
+
+}

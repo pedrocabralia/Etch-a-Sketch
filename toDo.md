@@ -26,7 +26,7 @@ exemple: https://atrbyg24.github.io/etch-a-sketch/
 
 1. **Change Grid Size**
    - [x] Add a button to prompt the user for a new grid size (e.g., squares per side).
-   - [ ] Limit user input to a maximum of **100 squares per side** to avoid performance issues.
+   - [x] Limit user input to a maximum of **100 squares per side** to avoid performance issues.
    - [x] Remove the existing grid and generate a new grid based on the user's input, maintaining the same total width (e.g., 960px).
 
 2. **Research Requirements**
@@ -38,15 +38,15 @@ exemple: https://atrbyg24.github.io/etch-a-sketch/
    - [x] Ensure a 64x64 grid (or other user-specified size) can be generated while maintaining the total sketch pad size.
 
 4. **Push to GitHub**
-   - [ ] Commit and push the final project to a GitHub repository for version control and sharing.
+   - [x] Commit and push the final project to a GitHub repository for version control and sharing.
 
 ## Extra Credit
 
 1. **Dynamic Square Colors**
-   - [ ] Randomize the RGB values of a square whenever it is interacted with by the mouse.
+   - [x] Randomize the RGB values of a square whenever it is interacted with by the mouse.
 
 2. **Progressive Darkening Effect**
-   - [ ] Gradually darken each square by **10% opacity** with each interaction.
-   - [ ] Ensure the square becomes fully black (or fully colored) after 10 interactions.
-   - [ ] Use the `opacity` CSS property and refer to [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity) for guidance.
+   - [x] Gradually darken each square by **10% opacity** with each interaction.
+   - [x] Ensure the square becomes fully black (or fully colored) after 10 interactions.
+   - [x] Use the `opacity` CSS property and refer to [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/opacity) for guidance.
 
